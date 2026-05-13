@@ -32,9 +32,18 @@ code {
     background-color: #FFFFFF;
 }
 
-td {
+.table-padded td {
 	vertical-align: top;
     padding-bottom: 10px
+}
+
+.table-tight td{
+    vertical-align: top;
+    padding-bottom: 0px
+}
+
+ul {
+    margin: 0px;
 }
 
 pre {
