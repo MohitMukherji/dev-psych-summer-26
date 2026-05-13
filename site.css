@@ -11,8 +11,8 @@ h1, h2, h3, h4 {
 
 .container {
 	align: center;
-	/* width:800px; */
-	margin: 15px;
+	width: 800px;
+	margin: 0 auto;
 	font-family:Helvetica, sans-serif;
 	font-size: 12pt;
 	line-height: 1.15;
@@ -34,6 +34,7 @@ code {
 
 td {
 	vertical-align: top;
+    padding-bottom: 10px
 }
 
 pre {
